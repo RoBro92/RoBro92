@@ -13,7 +13,8 @@
 
 - ⚡ Fun fact **I spent 6 years driving tanks & I can touch my nose with my tongue.**
 
-
+All feature requests are tracked in the GitHub issue tracker. 
+[Feature Requests](https://github.com/RoBro92/feature-requests/issues)
 
 
 
