@@ -2,6 +2,7 @@
 - 👀 I’m interested in CAD Design, Motorcycles, Electrical Engineering
 - 🌱 I’m currently learning Prince2 Project Management & Yaml
 - 💞️ I’m looking to collaborate on SmartRV 
+- :coffee: Buy me a coffee - https://ko-fi.com/smartrv
 - 📫 How to reach me robin@smartrv.uk
 
 <!---
