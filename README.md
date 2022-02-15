@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robin Brown</h1>
-<h3 align="center">A passionate tinkerer that has been working to make Vanlife and home automation one.</h3>
+<h3 align="center">A passionate tinkerer that has been working to make Vanlife and Home Automation one.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robro92&label=Page%20views&color=0e75b6&style=flat" alt="robro92" /> </p>
 
