@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **admin@stonewallmedia.co.uk**
 
-All feature requests are tracked in the GitHub issue tracker. 
-[Feature Requests](https://github.com/RoBro92/feature-requests/issues)
+
 
 
 
