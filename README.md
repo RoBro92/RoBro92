@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robro92&label=Page%20views&color=0e75b6&style=flat" alt="robro92" /> </p>
 
-- 🔭 I’m currently working on **SmartRV**
+- 🔭 I’m currently working on **Nodeinfo**
 
-- 👯 I’m looking to collaborate on **Integration**
+- 👯 I’m looking to collaborate
 
 - 👨‍💻 All of my projects are available at [https://github.com/RoBro92](https://github.com/RoBro92)
 
-- 📫 How to reach me **robin@smartrv.uk**
-
-- ⚡ Fun fact **I spent 6 years driving tanks & I can touch my nose with my tongue.**
+- 📫 How to reach me **admin@stonewallmedia.co.uk**
 
 All feature requests are tracked in the GitHub issue tracker. 
 [Feature Requests](https://github.com/RoBro92/feature-requests/issues)
